@@ -1,0 +1,39 @@
+Perguntas
+Explique o conceito de ORM (Object-Relational Mapping) no Django.
+B) O ORM é uma camada de abstração que mapeia tabelas do banco de dados para classes Python.
+
+Como você implementaria autenticação de usuário no Django?
+D) Todas as alternativas acima.
+
+Qual é o propósito do arquivo urls.py em um projeto Django?
+B) Definir as rotas da aplicação.
+
+Explique como você usaria middlewares no Django para adicionar funcionalidades às requisições e respostas.
+C) Middlewares podem adicionar dados às requisições ou respostas.
+
+Como você otimizaria o desempenho de um aplicativo Django que realiza muitas consultas ao banco de dados?
+D) Todas as alternativas acima.
+
+Qual é a diferença entre select_related() e prefetch_related() em Django?
+C) select_related() carrega dados em uma única consulta SQL, enquanto prefetch_related() carrega em consultas separadas.
+
+Como você lidaria com uma exceção em uma view Django para evitar que o servidor retorne um erro 500?
+A) Usando um bloco try-except para capturar a exceção e retornar uma resposta personalizada.
+
+Explique o conceito de serialização no Django.
+C) Serialização permite transformar dados do modelo em diversos formatos, como JSON ou XML.
+
+Como você diferenciaria projetos e aplicativos no Django?
+D) Todas as alternativas acima.
+
+Qual é o propósito do arquivo wsgi.py em um projeto Django?
+C) Servir a aplicação Django em um servidor WSGI.
+
+Explique como você usaria o comando makemigrations no Django.
+B) Para atualizar o esquema do banco de dados após alterações nos modelos.
+
+Como você configuraria arquivos estáticos no Django?
+D) Todas as alternativas acima.
+
+Explique o conceito de sinais no Django.
+B) Sinais são usados para realizar ações antes ou depois de eventos específicos no Django.
